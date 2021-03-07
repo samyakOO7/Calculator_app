@@ -15,3 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Calculator_app
+![alt text](file:///Users/samyakgantayat/Desktop/Screenshot%201942-12-16%20at%207.43.13%20PM.png)
+![alt text](file:///Users/samyakgantayat/Desktop/Screenshot%201942-12-16%20at%207.42.17%20PM.png)
